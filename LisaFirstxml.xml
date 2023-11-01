@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfParic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Paric>
+    <Parica>Белый</Parica>
+    <Price>12000</Price>
+    <Style>Каре</Style>
+  </Paric>
+  <Paric>
+    <Parica>Чёрный</Parica>
+    <Price>15000</Price>
+    <Style>Каскад</Style>
+  </Paric>
+</ArrayOfParic>
